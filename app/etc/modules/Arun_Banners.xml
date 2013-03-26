@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- 
+/**
+ * @category   Arun
+ * @package    Arun_Banners
+ * @author     Arun <arunkranth@gmail.com>
+ */
+ -->
+<config>
+    <modules>
+        <Arun_Banners>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Arun_Banners>
+    </modules>
+</config> 

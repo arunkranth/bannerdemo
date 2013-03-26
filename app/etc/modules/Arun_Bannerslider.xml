@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Arun_Bannerslider>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Arun_Bannerslider>
+    </modules>
+</config> 
